@@ -1,0 +1,56 @@
+Jillian Rothstein and Hunter Nystedt
+
+
+commit 2e45ac909dae6e5b0f8c36442bc24001d0b612fe
+Author: Jillian <jillianrothstein@mymail.mines.edu>
+Date:   Thu Feb 21 11:39:31 2019 -0700
+
+    changed mouth dimentions
+
+commit d2105aa4398fdc1450764cfdf38fbced92876531
+Author: Jillian <jillianrothstein@mymail.mines.edu>
+Date:   Thu Feb 21 11:38:39 2019 -0700
+
+    changed cat head to pink
+
+commit b71d3060711e48661917ef5d86d41372b1e5871c
+Author: Jillian <jillianrothstein@mymail.mines.edu>
+Date:   Thu Feb 21 11:37:53 2019 -0700
+
+    changed text color to blue
+
+commit 9d86db913bcfce5abaf93ce41c96095dc4e12548
+Author: Hunter Nystedt <hanystedt@mymail.mines.edu>
+Date:   Thu Feb 21 11:32:38 2019 -0700
+
+    changed size of cat
+
+commit a65a6a73726ef472806deef7140980a2c0a6ef9d
+Author: Hunter Nystedt <hanystedt@mymail.mines.edu>
+Date:   Thu Feb 21 11:31:06 2019 -0700
+
+    changed colors for cat
+
+commit 624397c7238f900523e72fffb5da19357a4be022
+Author: Hunter Nystedt <hanystedt@mymail.mines.edu>
+Date:   Thu Feb 21 11:28:40 2019 -0700
+
+    changed eye height
+
+commit 499c8fd232a9a00e8c91ec70c613ef9c76de4dab
+Author: Jillian <jillianrothstein@mymail.mines.edu>
+Date:   Thu Feb 21 11:21:23 2019 -0700
+
+    added files to gitignore
+
+commit caa0f6591964662f1c86b38f55a988c62c5ccf19
+Author: Jillian <jillianrothstein@mymail.mines.edu>
+Date:   Thu Feb 21 11:19:13 2019 -0700
+
+    initial commit
+
+commit 401a31cef8a7ae62ac0ec1e60a76a9928749683e
+Author: jillianrothstein <46988835+jillianrothstein@users.noreply.github.com>
+Date:   Thu Feb 21 11:01:47 2019 -0700
+
+    Initial commit
